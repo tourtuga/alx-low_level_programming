@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main -  entary of code start point
- * Description :this print by function puts
- * Return : always  (0) success
+ * main -  entary  point
+ * Description: A C program that prints with put function
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
