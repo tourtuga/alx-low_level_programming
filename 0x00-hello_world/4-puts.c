@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main intary of code start point
- * this print by function puts
- * always return (0)
-that's mean success
+ * Main -  entary of code start point
+ * Description :this print by function puts
+ * Return : always  (0) success
 */
 int main(void)
 {
